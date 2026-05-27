@@ -32,3 +32,7 @@ Quentin assassin (Léo C.)
 
 ????
 >>>>>>> 40824e50302ff334c482a2b3ff9b1d69afd0cc16
+ 
+ /\_/\
+( o.o )
+ > ^ <
