@@ -23,4 +23,10 @@ Bonjour (Lucas L.)
 
 Merci Quentin (Corentin R.)
 
+<<<<<<< HEAD
 Touche pas à ma ligne (Thomas B)
+=======
+Quentin assassin (Léo C.)
+
+????
+>>>>>>> 40824e50302ff334c482a2b3ff9b1d69afd0cc16
