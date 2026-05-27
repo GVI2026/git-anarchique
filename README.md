@@ -13,4 +13,8 @@ Deuxième ligne (Thomas V.)
 
 Je m'en fous de l'organisation, je push :p (Quentin .S)
 
-une autre ligne (thomas B.)
+Une autre ligne (Rémi D.)
+
+Bonjour (Lucas L.)
+
+Touche pas à ma ligne (Thomas B)
