@@ -11,11 +11,15 @@ Ceci est la première ligne (Kevin A.)
 
 Deuxième ligne (Thomas V.)
 
-Je m'en fous de l'organisation, je push :p (Quentin .S)
+Je m'en fous de l'organisation, je push :p (Quentin .S) (vandal >:3)
+
+Troisème ligne (Maxime C.)
 
 Une autre ligne (Rémi D.)
 
 Bonjour (Lucas L.)
+
+5, laissez moi svp (Hugo B.)
 
 Merci Quentin (Corentin R.)
 
