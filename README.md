@@ -15,4 +15,7 @@ Je m'en fous de l'organisation, je push :p (Quentin .S)
 
 Une autre ligne (Rémi D.)
 
-Bonjour je vous déteste (Lucas L.)
+Bonjour (Lucas L.)
+
+5 (Hugo B.)
+Merci Quentin (Corentin R.)
